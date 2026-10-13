@@ -41,7 +41,7 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 - Reading books   
 - Sports: badminton & Basketball  
 
-## download My Resume  
+## download My Resume   
 - [Click here to download my CV (PDF)](112707.pdf)  
 
 ## Contact Details  
