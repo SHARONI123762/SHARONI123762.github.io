@@ -3,26 +3,26 @@
 Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology at SLIIT.
 
 ## About me
-- **Full  Name:** Randunu Pedi DUrayalage Sharoni Kavindi Chandrathilaka  
-- **Date of Birth:** 28 septhember 2004  
-- **Nationality:** Sri Lanka  
-- *Undergraduate studying BSc (Hons) in Biotechnology - SLIIT  
-- *Location : Kurunegala, Sri Lanka.  
+- ** Full  Name: ** Randunu Pedi DUrayalage Sharoni Kavindi Chandrathilaka  
+- ** Date of Birth: ** 28 septhember 2004  
+- * Nationality: ** Sri Lanka  
+- * Undergraduate studying BSc (Hons) in Biotechnology - SLIIT  
+- * Location : Kurunegala, Sri Lanka.  
 
 
 ## Education Qualifications
 
 ### Undergraduate  
-- **BSc (Hons) in Biotechnology** SLIIT   
+- ** BSc (Hons) in Biotechnology ** SLIIT   
 
 ### Professional & Language Courses   
-- **Certificate in Computer Science** - NIBM, Sri Lanka  
-- **General English Course** - British Council, Sri Lanka   
+- ** Certificate in Computer Science ** - NIBM, Sri Lanka  
+- ** General English Course ** - British Council, Sri Lanka   
 
 ### Secondary Education  
-- **G.C.E. Advance Level (2025)  
- - Pass with 3c passes in Biological Science Stream**(biology: C , Physics: C , Chemistry: C )  
-- **G.C.E. Ordinary Level (2020)  
+- ** G.C.E. Advance Level (2025)  
+ - Pass with 3c passes in Biological Science Stream ** (biology: C , Physics: C , Chemistry: C )  
+- ** G.C.E. Ordinary Level (2020)  
  - Pass with 8A & 1B pass (Science: A, English: A ,Mathematics: B,)  
 
 
@@ -34,8 +34,8 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 
 
 ## Language  
-- **English:** Intermediate  
-- **Sinhala:** Native  
+- ** English: ** Intermediate  
+- ** Sinhala: ** Native  
 
 ## Hobbies & Personal Interests  
 - Reading books   
@@ -45,7 +45,7 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 - [Click here to download my CV (PDF)](112707.pdf)  
 
 ## Contact Details  
-- **Email:** sharonikavindi@gmail.com  
-- **Phone:**0712160493  
+- ** Email: ** sharonikavindi@gmail.com  
+- ** Phone: **0712160493  
 
 
