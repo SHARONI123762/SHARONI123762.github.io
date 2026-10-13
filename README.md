@@ -16,8 +16,8 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 - BSc (Hons) in Biotechnology SLIIT   
 
 ### Professional & Language Courses   
-- ** Certificate in Computer Science ** - NIBM, Sri Lanka  
-- ** General English Course ** - British Council, Sri Lanka   
+- Certificate in Computer Science - NIBM, Sri Lanka  
+- General English Course  - British Council, Sri Lanka   
 
 ### Secondary Education  
 - ** G.C.E. Advance Level (2025)  
