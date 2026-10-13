@@ -1,9 +1,4 @@
 
----
-theme: jekyll-theme-cayman
-title: Sharoni Kavindi - Portfolio
----
-
 # Sharoni Kavindi Chandrathilaka
 
 Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology at SLIIT.
