@@ -21,9 +21,9 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 
 ### Secondary Education  
 - G.C.E. Advance Level (2025)  
-    Pass with 3c passes in Biological Science Stream  (biology: C , Physics: C , Chemistry: C )  
+      Pass with 3c passes in Biological Science Stream  (biology: C , Physics: C , Chemistry: C )  
 - G.C.E. Ordinary Level (2020)  
-    Pass with 8A & 1B pass (Science: A, English: A ,Mathematics: B,)  
+      Pass with 8A & 1B pass (Science: A, English: A ,Mathematics: B,)  
 
 
  ## Technical Proficiency & Skills  
