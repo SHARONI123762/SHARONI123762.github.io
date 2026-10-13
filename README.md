@@ -13,7 +13,7 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 ## Education Qualifications
 
 ### Undergraduate  
-- ** BSc (Hons) in Biotechnology ** SLIIT   
+- BSc (Hons) in Biotechnology SLIIT   
 
 ### Professional & Language Courses   
 - ** Certificate in Computer Science ** - NIBM, Sri Lanka  
