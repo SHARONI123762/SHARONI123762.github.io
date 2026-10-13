@@ -41,8 +41,8 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 - Reading books   
 - Sports: badminton & Basketball  
 
-## Download My Resume   
-- [Click here to download my CV (PDF)](./CV.pdf)   
+## Download My Resume
+- [Click here to download my CV (PDF)](./CV_261013_112707%20(2).pdf)  
 
 ## Contact Details  
 - Email: sharonikavindi@gmail.com  
