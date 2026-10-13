@@ -26,7 +26,7 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
       Pass with 8A & 1B pass (Science: A, English: A ,Mathematics: B,)  
 
 
- ## Technical Proficiency & Skills  
+ ##  Technical Proficiency & Skills  
  - Basic Laboratory Techniques & Safety Standards  
  - Microsoft Office Suits (MS Word, Excel, Powerpoint )  
  - Introductory Knowledge in Information Technology & Generative AI Tools  
