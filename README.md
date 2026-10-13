@@ -16,14 +16,14 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 - BSc (Hons) in Biotechnology SLIIT   
 
 ### Professional & Language Courses   
-- Certificate in Computer Science - NIBM, Sri Lanka  
-- General English Course  - British Council, Sri Lanka   
+- **Certificate in Computer Science -** NIBM, Sri Lanka  
+- **General English Course  -** British Council, Sri Lanka   
 
 ### Secondary Education  
-- G.C.E. Advance Level (2025)  
+- **G.C.E. Advance Level (2025)**  
       Pass with 3c passes in Biological Science Stream  (biology: C , Physics: C , Chemistry: C )  
-- G.C.E. Ordinary Level (2020)   
-      Pass with 8A & 1B pass (Science: A, English: A ,Mathematics: B,)  
+- **G.C.E. Ordinary Level (2020)**   
+      Pass with 8A & 1B pass (Science: A, English: A ,Mathematics: B,)
 
 ## Technical Proficiency & Skills  
  - Basic Laboratory Techniques & Safety Standards  
