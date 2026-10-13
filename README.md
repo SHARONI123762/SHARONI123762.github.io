@@ -3,7 +3,7 @@
 
 Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology at SLIIT.
 
-![Sharoni Kavindi](WhatsApp Image 2026-10-13 at 16.03.35_1020251d.jpg)
+![Sharoni Kavindi](profile.jpg)
 
 ## About me
 - **Full  Name:** Randunu Pedi Durayalage Sharoni Kavindi Chandrathilaka  
