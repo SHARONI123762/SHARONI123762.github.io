@@ -37,7 +37,15 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 -**English:** Intermediate
 -**Sinhala:** Native
 
+##Hobbies & Personal Interests
+-Reading books 
+-Sports: badminton & Basketball
 
 ## download My Resume
+-[Click here to download my CV (PDF)](112707.pdf)
+
+##Contact Details
+-**Email:** sharonikavindi@gmail.com
+-**Phone:**0712160493
 
 
