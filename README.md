@@ -6,8 +6,8 @@ Welcome to my e-portfolio! I am a undergraduate student studying Biotechnology a
 - **Full  Name:** Randunu Pedi DUrayalage Sharoni Kavindi Chandrathilaka  
 - **Date of Birth:** 28 septhember 2004  
 - **Nationality:** Sri Lanka  
-- * Undergraduate studying BSc (Hons) in Biotechnology - SLIIT  
-- * Location : Kurunegala, Sri Lanka.  
+- Undergraduate studying BSc (Hons) in Biotechnology - SLIIT  
+- Location : Kurunegala, Sri Lanka.  
 
 
 ## Education Qualifications
